@@ -1,2 +1,3 @@
-# AutoWriter_GUI
-Heres my attempt at making my Autowriter with a GUI
+Here is the script for a autowriter with a simple GUI
+Made by Turt3l
+Enjoy! :D
